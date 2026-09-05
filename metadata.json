@@ -1,0 +1,7 @@
+{
+  "name": "HR Smart Attendance",
+  "description": "HR Smart Attendance & Employee Management System for tracking attendance, leaves, shifts, reports, and real-time monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
